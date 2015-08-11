@@ -50,7 +50,7 @@
     "docpad": "6"
   },
   "dependencies": {
-    "autoprefixer": "~1.0.20140117"
+    "autoprefixer": "^5.2.0"
   },
   "devDependencies": {
     "coffee-script": "^1.9.1",
